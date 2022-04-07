@@ -10,5 +10,5 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 Mis expectativas para este proyecto son:
 
 - Aprender y conocer todo acerca de Git y Github.
-- Aprender Backend con NodeJs
+- Aprender Backend con NodeJs.
 🚀
